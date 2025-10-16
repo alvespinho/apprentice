@@ -1,2 +1,2 @@
-# tests
-Apprentice studies as a Python developer. 
+# apprentice
+Beginner studies as a Python developer. 
